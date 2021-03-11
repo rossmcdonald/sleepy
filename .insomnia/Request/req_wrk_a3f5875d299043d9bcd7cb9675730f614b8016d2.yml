@@ -1,0 +1,21 @@
+_id: req_wrk_a3f5875d299043d9bcd7cb9675730f614b8016d2
+type: Request
+parentId: wrk_a3f5875d299043d9bcd7cb9675730f61
+modified: 1615483955818
+created: 1615483955818
+url: "{{ base_url }}/.*"
+name: Generate an echo response
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1615483955818
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
